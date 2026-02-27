@@ -35,7 +35,7 @@ A package is considered:
 ## Tech Stack
 
 * Java
-* <a href="https://junit.org/junit5/">JUnit 5</a>
+* JUnit
 
 ---
 
